@@ -2,7 +2,12 @@
 iOS To Do List App
 
 # Features:
+- Create Categories for groups of similar tasks
+- Add Tasks inside the categories
 - Tasks are displayed in ombre colors
+- Check off completed tasks
+- Delete tasks and/or categories 
+- Save data to your device so your data is still available when you reload the app
 
 # Demo:
 
@@ -17,3 +22,8 @@ Check off tasks and delete tasks: <br/>
 
 Tasks are displayed in ombre colors depending on the color of each category: <br/>
 <a href="https://media.giphy.com/media/hrGHEp1r1RRgreyHcM/giphy.gif"><img src="https://media.giphy.com/media/hrGHEp1r1RRgreyHcM/giphy.gif" title="Colors"/></a>
+
+# Technology Used:
+- Swift
+- Cocoa Pods
+- Realm
