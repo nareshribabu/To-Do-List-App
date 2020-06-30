@@ -17,8 +17,8 @@ Make different Categories for groups of similar tasks: <br/>
 Add Tasks inside the categories inside alphabetical order: <br/>
 <a href="https://media.giphy.com/media/cPkSJ7mV9mBDopI7xE/giphy.gif"><img src="https://media.giphy.com/media/cPkSJ7mV9mBDopI7xE/giphy.gif" title="Tasks"/></a>
 
-Check off tasks and delete tasks: <br/>
-<a href="https://media.giphy.com/media/XcG82S6sUgs5zq1pth/giphy.gif"><img src="https://media.giphy.com/media/XcG82S6sUgs5zq1pth/giphy.gif" title="Checkoff"/></a>
+Check off tasks and delete tasks/categories: <br/>
+<a href="https://media.giphy.com/media/SXmF2L6gJfn4XoSPoY/giphy.gif"><img src="https://media.giphy.com/media/SXmF2L6gJfn4XoSPoY/giphy.gif" title="Checkoff"/></a>
 
 Tasks are displayed in ombre colors depending on the color of each category: <br/>
 <a href="https://media.giphy.com/media/hrGHEp1r1RRgreyHcM/giphy.gif"><img src="https://media.giphy.com/media/hrGHEp1r1RRgreyHcM/giphy.gif" title="Colors"/></a>
