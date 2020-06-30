@@ -3,10 +3,13 @@ iOS To Do List App
 
 # Features:
 - Create Categories for groups of similar tasks
-- Add Tasks inside the categories
+- Add Tasks inside the categories in alphabetical order
 - Tasks are displayed in ombre colors
 - Check off completed tasks
 - Delete tasks and/or categories 
+- Search Functionality
+  - Can Search Tasks
+  - Can Search Categories
 - Save data to your device so your data is still available when you reload the app
 
 # Demo:
@@ -21,7 +24,7 @@ Check off tasks and delete tasks/categories: <br/>
 <a href="https://media.giphy.com/media/SXmF2L6gJfn4XoSPoY/giphy.gif"><img src="https://media.giphy.com/media/SXmF2L6gJfn4XoSPoY/giphy.gif" title="Checkoff"/></a>
 
 Tasks are displayed in ombre colors depending on the color of each category: <br/>
-<a href="https://media.giphy.com/media/hrGHEp1r1RRgreyHcM/giphy.gif"><img src="https://media.giphy.com/media/hrGHEp1r1RRgreyHcM/giphy.gif" title="Colors"/></a>
+<a href="https://media.giphy.com/media/WmuWKs1wugZyoNOQSu/giphy.gif"><img src="https://media.giphy.com/media/WmuWKs1wugZyoNOQSu/giphy.gif" title="Colors"/></a>
 
 # Technology Used:
 - Swift
