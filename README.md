@@ -3,7 +3,7 @@ iOS To Do List App
 
 ## Features:
 - Create **Categories** for groups of similar tasks
-- Add **Tasks** inside the categories in alphabetical order
+- Add **Tasks** inside the categories in **alphabetical order**
 - **Check off** completed tasks
 - **Delete** tasks and/or categories 
 - **Search tasks** using the search bar
