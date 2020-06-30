@@ -31,4 +31,6 @@ iOS To Do List App
 ## Technology Used:
 - Swift
 - Cocoa Pods
+  - Chameleon Framework
+  - Swipe Cell Kit
 - Realm
