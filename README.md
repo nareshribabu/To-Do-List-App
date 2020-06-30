@@ -26,6 +26,9 @@ Check off tasks and delete tasks/categories: <br/>
 Tasks are displayed in ombre colors depending on the color of each category: <br/>
 <a href="https://media.giphy.com/media/WmuWKs1wugZyoNOQSu/giphy.gif"><img src="https://media.giphy.com/media/WmuWKs1wugZyoNOQSu/giphy.gif" title="Colors"/></a>
 
+Search Tasks:
+<a href="https://media.giphy.com/media/jS1isk9SAC6RVIcvN5/giphy.gif"><img src="https://media.giphy.com/media/jS1isk9SAC6RVIcvN5/giphy.gif" title="SearchTasks"/></a>
+
 # Technology Used:
 - Swift
 - Cocoa Pods
