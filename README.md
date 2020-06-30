@@ -34,3 +34,6 @@ iOS To Do List App
   - Chameleon Framework
   - Swipe Cell Kit
 - Realm
+
+## Notes:
+- Pods Folder is not included
