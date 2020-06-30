@@ -36,4 +36,7 @@ iOS To Do List App
 - Realm
 
 ## Notes:
-- Pods Folder is not included
+- This app was created for learning purposes only. <br/>
+- The pods folder is not included <br/>
+- This is an app inspired by the clear app. <br/>
+- Uses MVC Pattern to organize code
